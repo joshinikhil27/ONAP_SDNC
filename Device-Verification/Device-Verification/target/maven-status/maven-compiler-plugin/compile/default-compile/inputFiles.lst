@@ -1,0 +1,6 @@
+/home/ubuntu/ONAP_SDNC/Device-Verification/Device-Verification/src/main/java/org/camunda/bpm/Delegate/EvaluatePreTest.java
+/home/ubuntu/ONAP_SDNC/Device-Verification/Device-Verification/src/main/java/org/camunda/bpm/Delegate/RetriveOldConfiguration.java
+/home/ubuntu/ONAP_SDNC/Device-Verification/Device-Verification/src/main/java/org/camunda/bpm/Delegate/CallOdl.java
+/home/ubuntu/ONAP_SDNC/Device-Verification/Device-Verification/src/main/java/org/camunda/bpm/Delegate/ProcessDeviceConfiguration.java
+/home/ubuntu/ONAP_SDNC/Device-Verification/Device-Verification/src/main/java/org/camunda/bpm/Delegate/RetriveRestUrl.java
+/home/ubuntu/ONAP_SDNC/Device-Verification/Device-Verification/src/main/java/org/camunda/bpm/start/DeviceVerification.java

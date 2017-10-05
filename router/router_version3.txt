@@ -1,0 +1,46 @@
+{
+	"variables": {
+		"deviceConfigurationJson": {
+			"value": {
+				"router": {
+					"ospf": {
+						"process-id": "12",
+						"networks": {
+							"subnet-ip": "7678678",
+							"area-id": "89989889"
+						}
+					},
+					"bgp": {
+						"as-number": "676767",
+						"router-id": "63.2.9.222",
+						"neighbors": {
+							"as-number": "8000",
+							"peer-ip": "1.3.4.8"
+						}
+					},
+					"ipsla": [
+						{
+							"cos-entry-number": "7657",
+							"destination-address": "12.12.12.12",
+							"source-address": "10.10.1.1",
+							"customer-name": "KLLLKLLK"
+						},
+						{
+							"cos-entry-number": "321564",
+							"destination-address": "10.11.12.12",
+							"source-address": "10.10.1.1",
+							"customer-name": "MNNNBN"
+						},
+						{
+							"cos-entry-number": "887878",
+							"destination-address": "12.5.12.12",
+							"source-address": "10.10.1.2",
+							"customer-name": "LLQWEE"
+						}
+					]
+				}
+			},
+			"type": "String"
+		}
+	}
+}

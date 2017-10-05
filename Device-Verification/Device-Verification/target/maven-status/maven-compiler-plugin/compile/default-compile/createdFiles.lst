@@ -1,0 +1,6 @@
+org/camunda/bpm/Delegate/ProcessDeviceConfiguration.class
+org/camunda/bpm/Delegate/RetriveRestUrl.class
+org/camunda/bpm/Delegate/EvaluatePreTest.class
+org/camunda/bpm/Delegate/CallOdl.class
+org/camunda/bpm/Delegate/RetriveOldConfiguration.class
+org/camunda/bpm/start/DeviceVerification.class
